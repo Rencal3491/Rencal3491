@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 더 궁금한 점이 있거나 문의 사항이 있으면 연락주세요!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer&text=Thanks%for%Read!!!&fontSize=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00B5E3&height=200&section=footer&text=Thanks_For_Read!!!&fontSize=50)
