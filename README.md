@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## 📫 연락처
 
+HP : 010-8003-6980
+Email : jmj3491329@naver.com
 
 ## 🔧 기술 스택
 
