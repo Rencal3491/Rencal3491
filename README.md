@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chehyeonyeong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chehyeonyeong&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rencal3491&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rencal3491&layout=compact&theme=radical)
 
 ## 🌱 스터디 및 활동
 
