@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=📖MinJun's%20Hub📖&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00B5E3&fontColor=FFFFFF&height=300&section=header&text=📖MinJun's%20Hub📖&fontSize=50)
 
 
 ## 📫 연락처
